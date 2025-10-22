@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1760308685 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\main.cpp
+	<iostream>
+	"C:\Users\USUARIO\Documents\Tercer semestre\Estucturas_De_Datos\Deber_1.2\include\Contolador.cpp"
+	"C:\Users\USUARIO\Documents\Tercer semestre\Estucturas_De_Datos\Deber_1.2\src\Vista.cpp"
+
+1760309027 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\src\fraccion.cpp
+	"C:\Users\USUARIO\Documents\Tercer semestre\Estucturas_De_Datos\Deber_1.2\include\Fraccion.h"
+	<stdexcept>
+
+1760308753 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\include\fraccion.h
+
+1760308627 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\src\vista.cpp
+	"C:\Users\USUARIO\Documents\Tercer semestre\Estucturas_De_Datos\Deber_1.2\include\Interfaz.h"
+	<iostream>
+
+1760308627 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\include\interfaz.h
+	"Fraccion.h"
+
+1760308627 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\include\contolador.cpp
+	"Fraccion.h"
+	"Interfaz.h"
+
+1760308627 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\include\contolador.cpp
+	"Fraccion.h"
+	"Interfaz.h"
+
+1760308627 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber_1.2\src\vista.cpp
+	"C:\Users\USUARIO\Documents\Tercer semestre\Estucturas_De_Datos\Deber_1.2\include\Interfaz.h"
+	<iostream>
+
