@@ -2,6 +2,6 @@
 #include <iostream>
 using namespace std;
 void Imprimir::ejecutar(){
-    cout<<"----Multiplicacion de Matrices-----"<<endl;
+    cout<<"----suma  de Matrices-----"<<endl;
     proceso.operar();
 }
