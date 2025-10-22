@@ -1,0 +1,11 @@
+#include "Fraccion."
+
+Fraccion::Fraccion()
+{
+    //ctor
+}
+
+Fraccion::~Fraccion()
+{
+    //dtor
+}

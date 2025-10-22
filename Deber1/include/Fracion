@@ -1,0 +1,24 @@
+#ifndef FRACION_
+#define FRACION_
+
+
+class Fracion
+{
+    public:
+        Fracion();
+        Fracion(const Fracion& other);
+
+        int Getdenominador()
+         { return denominador; }
+        void Setdenominador(int val) { denominador = val; }
+        int Getnumerador() { return numerador; }
+        void Setnumerador(int val) { numerador = val; }
+
+    protected:
+
+    private:
+        int denominador;
+        int numerador;
+};
+
+#endif // FRACION_

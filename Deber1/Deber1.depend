@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1759800445 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1\main.cpp
+	<iostream>
+	"Fraccion.h"
+
+1761077916 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1\fraccion.h
+	<iostream>
+

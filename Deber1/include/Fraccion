@@ -1,0 +1,16 @@
+#ifndef FRACCION_
+#define FRACCION_
+
+
+class Fraccion
+{
+    public:
+        Fraccion();
+        virtual ~Fraccion();
+
+    protected:
+
+    private:
+};
+
+#endif // FRACCION_
