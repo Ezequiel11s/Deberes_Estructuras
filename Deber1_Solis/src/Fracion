@@ -1,0 +1,11 @@
+#include "Fracion.H"
+
+Fracion::Fracion()
+{
+    //ctor
+}
+
+Fracion::Fracion(const Fracion& other)
+{
+    //copy ctor
+}

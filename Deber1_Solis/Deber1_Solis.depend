@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1759884245 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\vista.cpp
+	"Vista.h"
+	<iostream>
+
+1759883275 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\vista.h
+	"Fraccion.h"
+
+1759885567 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\fraccion.h
+
+1759885567 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\main.cpp
+	"Contolador.h"
+
+1759878482 c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\contolador.h
+	"Vista.h"
+
+1759884365 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\contolador.cpp
+	"Contolador.h"
+
+1759887883 source:c:\users\usuario\documents\tercer semestre\estucturas_de_datos\deber1_solis\fraccion.cpp
+	"Fraccion.h"
+
